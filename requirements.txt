@@ -1,0 +1,11 @@
+# multi-users-ref.py / multi-session-ref.py (Streamlit Cloud 배포용)
+# Secrets: SUPABASE_URL, SUPABASE_ANON_KEY (또는 SUPABASE_SERVICE_ROLE_KEY)
+streamlit>=1.28.0
+supabase>=2.0.0
+openai>=1.0.0
+python-dotenv>=1.0.0
+langchain-text-splitters>=0.2.0
+langchain-core>=0.2.0
+pypdf>=4.0.0
+anthropic>=0.18.0
+google-generativeai>=0.8.0
